@@ -1,0 +1,6 @@
+user_id,age,gender,country,satisfaction,uses_daily,recommend
+1,25,M,Poland,4,yes,yes
+2,34,F,Germany,5,yes,yes
+3,19,M,Poland,2,no,no
+4,45,F,France,3,no,yes
+5,29,F,Poland,5,yes,yes
